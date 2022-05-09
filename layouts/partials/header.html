@@ -7,7 +7,8 @@
            <nav class="navbar navbar-expand-lg navbar-light p-0">
               <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
                 {{ $logo:= site.Params.logo }}
-                {{ if fileExists (add `assets/` $logo) }}
+                {{ $assetPath:= site.Params.assetPath }}
+                {{ if fileExists (print $assetPath $logo) }}
                 {{ $logo:= resources.Get $logo }}
                 <img loading="preload" decoding="async" class="img-fluid" width="{{site.Params.logo_width}}" height="45" src="{{$logo.RelPermalink}}" alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{$logo.RelPermalink}}'">
                 {{ else }}
