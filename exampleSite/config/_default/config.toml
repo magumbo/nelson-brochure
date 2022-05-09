@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/andromeda-light/examplesite/"
 title = "Nelson - Operating System For A New Breed Of Hotels"
-theme = "andromeda-light"
+theme = "nelson-brochure"
 # post pagination
 paginate = "6"
 # post excerpt
