@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Any property can be a hotel, anyone can be a hotelier"
+  title: "Anyone can be a hotelier"
   button: "Book A Demo"
   button_link: "contact/"
   image: "images/banner-app.png"
@@ -9,7 +9,7 @@ banner:
 
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
