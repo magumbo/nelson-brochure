@@ -39,7 +39,8 @@
         <div class="pr-4">
           <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
             {{ $logo:= site.Params.logo }}
-            {{ if fileExists (add `assets/` $logo) }}
+            {{ $assetPath:= site.Params.assetPath }}
+            {{ if fileExists (print $assetPath $logo) }}
             {{ $logo:= resources.Get $logo }}
             <img loading="lazy" decoding="async" class="img-fluid mb-4" width="{{site.Params.logo_width}}" height="45" src="{{$logo.RelPermalink}}" alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{$logo.RelPermalink}}'">
             {{ else }}

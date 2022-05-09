@@ -21,8 +21,9 @@
 {{ hugo.Generator }}
 
 <!-- favicon -->
-{{ $favicon:= site.Params.favicon }}
-{{ if fileExists (add `assets/` $favicon) }}
+{{ $favicon:= seq site.Params.favicon }}
+{{ $assetPath:= seq site.Params.assetPath }}
+{{ if fileExists (print $assetPath $favicon) }}
 {{ $favicon:= resources.Get $favicon }}
 {{ $favicon_16:= $favicon.Resize "16x png"}}
 {{ $favicon_32:= $favicon.Resize "32x png"}}
