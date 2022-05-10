@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Anyone can be a hotelier baby!
+  title: Anyone can be a hotelier baby!!
   button: Book A Demo
   button_link: contact/index.html
   image: images/banner-app.png
