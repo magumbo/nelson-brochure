@@ -58,7 +58,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Book A Demo"
-link = "https://nelson.management/"
+link = "contact/index.html"
 
 # cookies
 [cookies]
@@ -73,7 +73,7 @@ enable = true
 title = "Get Nelson for your Property"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Book A Demo"
-button_link = "https://nelson.management/"
+button_link = "contact/index.html"
 
 ############################# social site ########################
 #[[social]]

@@ -3,7 +3,7 @@
 banner:
   title: "Anyone can be a hotelier"
   button: "Book A Demo"
-  button_link: "contact/"
+  button_link: "contact/index.html"
   image: "images/banner-app.png"
 
 

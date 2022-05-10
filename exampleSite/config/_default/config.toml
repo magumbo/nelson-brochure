@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://storage.googleapis.com/nelson-brochure/"
 title = "Nelson - Operating System For A New Breed Of Hotels"
-theme = "nelson-brochure"
+theme = "andromeda-light"
 # post pagination
 paginate = "6"
 # post excerpt
