@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/andromeda-light/examplesite/"
+baseURL = "https://storage.googleapis.com/nelson-brochure/"
 title = "Nelson - Operating System For A New Breed Of Hotels"
 theme = "nelson-brochure"
 # post pagination
