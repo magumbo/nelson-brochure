@@ -4,7 +4,7 @@ assetPath = "assets/"
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/nelson-black-small.svg"
+logo = "images/nelson-black-small.png"
 # use `x` with logo_width, example: "100x"
 logo_width = "140x"
 # logo text will only show when logo is missing.
@@ -76,22 +76,22 @@ button = "Book A Demo"
 button_link = "https://nelson.management/"
 
 ############################# social site ########################
-[[social]]
-title = "Nelson"
-icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+#[[social]]
+#title = "Nelson"
+#icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+#link = "#!"
 
-[[social]]
-title = "NelsonTweet"
-icon = "lab la-twitter"  # https://icons8.com/line-awesome
-link = "#!"
+#[[social]]
+#title = "NelsonTweet"
+#icon = "lab la-twitter"  # https://icons8.com/line-awesome
+#link = "#!"
 
 [[social]]
 title = "NelsonIn"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+icon = "lab la-linkedin-in" # https://www.linkedin.com/company/nelsontech
+link = "https://www.linkedin.com/company/nelsontech"
 
-[[social]]
-title = "NelsonPin"
-icon = "lab la-pinterest" # https://icons8.com/line-awesome
-link = "#!"
+#[[social]]
+#title = "NelsonPin"
+#icon = "lab la-pinterest" # https://icons8.com/line-awesome
+#link = "#!"
