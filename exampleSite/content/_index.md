@@ -31,8 +31,9 @@ features:
       customer experience. No more keycards or check-in kiosks
   - icon: las la-magnet
     title: Simple Booking Engine
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    content: Drive direct sales through your own website with our mobile-friendly
+      conversion obsessed booking engine. It can be customized to look exactly like
+      you want it
   - icon: las la-tachometer-alt
     title: Maintenance Handled
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
