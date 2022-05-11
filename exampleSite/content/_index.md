@@ -63,11 +63,10 @@ intro_video:
 how_it_works:
   enable: true
   block:
-  - subtitle: Nelson UI
+  - subtitle: Nelson App
     title: Complete Guest Management
-    description: Protect your design vision and leave nothing up to interpretation
-      with interaction recipes. Quickly share and access all your team members interactions
-      by using libraries, ensuring consistency throughout the.
+    description: 'Make sure guests have a seamless experience from booking to checking
+      out. Troubleshooting made easy with intuitive design. '
     image: images/features-01.png
   - subtitle: Nelson UI
     title: Inventory Easily
@@ -79,8 +78,8 @@ testimonials:
   enable: true
   subtitle: Our Testimonials
   title: Don't take our word for it
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas
-    <br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: 'Nelson has powered innovative hotel and apartment rental businesses
+    in Scandinavia since early 2000s. '
   image_left: images/testimonials-01.png
   image_right: images/testimonials-02.png
   testimonials_quotes:
