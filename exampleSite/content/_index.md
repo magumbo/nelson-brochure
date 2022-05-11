@@ -68,11 +68,11 @@ how_it_works:
     description: 'Make sure guests have a seamless experience from booking to checking
       out. Troubleshooting made easy with intuitive design. '
     image: images/features-01.png
-  - subtitle: Nelson UI
-    title: Inventory Easily
-    description: From the simplest of interactions to those that use Excel-gradeing
-      formulas, ProtoPie can handle them all. Make mind-blowing of New interactions
-      everyday without ever having to write any new code.
+  - subtitle: Nelson App
+    title: Property management made easy
+    description: What take multiple clicks in an old-school property management system
+      is done in a heartbeat in Nelson's web app. The system is plugged into the physical
+      property and can manage the workflow remotely
     image: images/features-02.png
 testimonials:
   enable: true
