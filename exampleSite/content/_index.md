@@ -34,9 +34,8 @@ features:
       conversion obsessed booking engine. It can be customized to look exactly like
       you want it
   - icon: las la-tachometer-alt
-    title: Maintenance Handled
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: AI-powered pricing
+    content: Room rates can be set by Nelson's proprietary machine learning algorithm
   - icon: las la-link
     title: Full OTA Integration
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
