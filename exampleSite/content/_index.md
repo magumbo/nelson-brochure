@@ -27,8 +27,7 @@ features:
   features_blocks:
   - icon: las la-lock
     title: Smart Locking
-    content: Nelson talks directly to your locks, making sure that guests have a seamless
-      customer experience. No more keycards or check-in kiosks
+    content: Nelson talks directly to your locks. No more keycards or check-in kiosks
   - icon: las la-magnet
     title: Simple Booking Engine
     content: Drive direct sales through your own website with our mobile-friendly
