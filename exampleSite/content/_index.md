@@ -27,8 +27,8 @@ features:
   features_blocks:
   - icon: las la-lock
     title: Smart Locking
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    content: Nelson talks directly to your locks, making sure that guests have a seamless
+      customer experience. No more keycards or check-in kiosks
   - icon: las la-magnet
     title: Simple Booking Engine
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
