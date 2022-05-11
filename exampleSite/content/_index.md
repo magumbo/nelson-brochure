@@ -27,7 +27,8 @@ features:
   features_blocks:
   - icon: las la-lock
     title: Smart Locking
-    content: Nelson talks directly to your locks. No more keycards or check-in kiosks
+    content: Nelson talks directly to your locks. No more keycards or check-in kiosks.
+      Guest just walk straight to their room when they arrive
   - icon: las la-magnet
     title: Simple Booking Engine
     content: Drive direct sales with our mobile-friendly and conversion-obsessed booking
@@ -35,10 +36,11 @@ features:
   - icon: las la-tachometer-alt
     title: AI-powered pricing
     content: Room rates can be set by Nelson's proprietary machine learning algorithm
+      that adjusts prices in real-time so that you don't have to
   - icon: las la-link
-    title: Full OTA Integration
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: OTA Integrations
+    content: We connect directly with Booking.com and Expedia. Channel distribution
+      is optimized so as to maximize profit. No more extranets
   - icon: las la-lock
     title: Help Desk
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
