@@ -49,6 +49,10 @@ features:
     title: Mobile App
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
       diam ornare volutpat in sagitis, aliquet. Arcu cursus
+  - icon: las la-lock
+    title: Test
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
+      diam ornare volutpat in sagitis, aliquet. Arcu cursus
 intro_video:
   enable: true
   subtitle: Short Intro Video
