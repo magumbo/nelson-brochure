@@ -30,9 +30,8 @@ features:
     content: Nelson talks directly to your locks. No more keycards or check-in kiosks
   - icon: las la-magnet
     title: Simple Booking Engine
-    content: Drive direct sales through your own website with our mobile-friendly
-      conversion obsessed booking engine. It can be customized to look exactly like
-      you want it
+    content: Drive direct sales with our mobile-friendly and conversion-obsessed booking
+      engine. It can be customized to look exactly like you want it
   - icon: las la-tachometer-alt
     title: AI-powered pricing
     content: Room rates can be set by Nelson's proprietary machine learning algorithm
