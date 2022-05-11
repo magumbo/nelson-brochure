@@ -42,17 +42,17 @@ features:
     content: We connect directly with Booking.com and Expedia. Channel distribution
       is optimized so as to maximize profit. No more extranets
   - icon: las la-lock
-    title: Help Desk
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: Nelson App
+    content: Respond to customer requests from anywhere through our web app. Moving
+      a customer to another room or getting sales reports has never been easier
   - icon: las la-magnet
-    title: Mobile App
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: Service App
+    content: Cleaning and maintenance staff work their magic using Nelson's own mobile
+      app that guides, tracks, and manages all service provision
   - icon: las la-lock
-    title: Test
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id
-      diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    title: Guest comms
+    content: Guests receive automated emails and SMS with room and access information.
+      Our awesome templates allow for customizing upselling
 intro_video:
   enable: true
   subtitle: Short Intro Video
