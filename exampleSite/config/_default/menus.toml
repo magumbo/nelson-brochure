@@ -6,13 +6,18 @@ weight = 1
 
 [[main]]
 name = "Why Nelson"
-url = "about/index.html"
+url = "why-nelson/index.html"
 weight = 2
 
 [[main]]
-name = "Testimonials"
+name = "Blog"
 url = "blog/index.html"
 weight = 3
+
+[[main]]
+name = "Testimonials"
+url = "testimonials/index.html"
+weight = 4
 
 #[[main]]
 #weight = 4
@@ -39,8 +44,8 @@ weight = 5
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/index.html"
+name = "Why Nelson"
+url = "why-nelson/index.html"
 weight = 1
 
 [[footer]]
