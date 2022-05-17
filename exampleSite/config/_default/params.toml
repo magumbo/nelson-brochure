@@ -18,7 +18,7 @@ image = "images/logo.png"                # this image will be used as fallback i
 # Alt colors - bluey 51b9a3 reddy e44944
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "Born in Finland. Grown in New York."
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
@@ -40,9 +40,9 @@ reading_time = true
 
 # contact information
 [contact_info]
-address = "116 S Jamesport Ave, South Jamesport, NY 11970"
-phone = ["+1 347 843 3248", "+1 347 843 3248", "+1 347 843 3248"]
-email = ["info@nelson.management", "service@nelson.management", "help@nelson.management"]
+address = "195 Montague Street, 14th Floor, Brooklyn, NY 11201"
+phone = ["+1 347 843 3248"]
+email = ["info@nelson.management"]
 
 # imaging processing
 [imaging]
@@ -71,7 +71,7 @@ button = "I Accept"
 [cta]
 enable = true
 title = "Get Nelson for your Property"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+content = "Any size property can be a great fit for Nelson. Enquire with our team about a demonstation."
 button = "Book A Demo"
 button_link = "contact/index.html"
 
@@ -87,7 +87,7 @@ button_link = "contact/index.html"
 #link = "#!"
 
 [[social]]
-title = "NelsonIn"
+title = "Nelson"
 icon = "lab la-linkedin-in" # https://www.linkedin.com/company/nelsontech
 link = "https://www.linkedin.com/company/nelsontech"
 
