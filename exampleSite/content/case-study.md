@@ -1,5 +1,5 @@
 ---
-title: Testimonials
+title: Case Study
 layout: about
 what_we_do:
   enable: true

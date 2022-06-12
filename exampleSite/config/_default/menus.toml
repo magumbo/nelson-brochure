@@ -15,8 +15,8 @@ url = "blog/index.html"
 weight = 3
 
 [[main]]
-name = "Testimonials"
-url = "testimonials/index.html"
+name = "Case Study"
+url = "case-study/index.html"
 weight = 4
 
 #[[main]]

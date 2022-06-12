@@ -11,6 +11,19 @@ googleAnalytics = "" # example: UA-123-45, for more info, read the article https
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 
+###
+
+[params.variables]
+white = "#f8f7f2"
+black = "#000000"
+light = "#FAFAFA"
+#primary_color = "#FE6019"
+primary_color = "#2D635E"
+
+#old-  primary_font: "Poppins:wght@400;500;600"
+primary_font = "Work Sans:wght@400;500;600"
+
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]

@@ -74,8 +74,8 @@ how_it_works:
       is done in a heartbeat in Nelson's web app. The system is plugged into the physical
       property and can manage the workflow remotely
     image: images/features-02.png
-testimonials:
-  enable: true
+case_study:
+  enable: false
   subtitle: Our Testimonials
   title: Don't take our word for it
   description: 'Nelson has powered innovative hotel and apartment rental businesses

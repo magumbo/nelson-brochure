@@ -4,7 +4,7 @@ assetPath = "assets/"
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/nelson-new.svg"
+logo = "images/nelson-new-green.svg"
 # use `x` with logo_width, example: "100x"
 logo_width = "140x"
 # logo text will only show when logo is missing.
