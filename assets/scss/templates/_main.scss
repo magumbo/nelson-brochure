@@ -15,6 +15,10 @@
     }
   }
 
+  .hero-image{
+    background-image: url("./thing/hero-image.jpg");
+  }
+
   .block,
   .banner-image {
     position: relative;
@@ -28,7 +32,8 @@
     height: calc(50% + 160px);
     width: calc(100% - 30px);
     border-radius: 30px;
-    background-color: lighten(saturate(adjust-hue($primary-color, 16), 0.87), 42.94);
+    //background-color: lighten(saturate(adjust-hue($primary-color, 16), 0.87), 42.94);
+    background-color: $grey;
     z-index: 1;
 
     &::before,

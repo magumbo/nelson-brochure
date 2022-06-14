@@ -1,6 +1,7 @@
 // Color Variables
 {{ with site.Params.variables }}
 $white: {{.white | default "#ffffff"}};
+$grey: {{.grey | default "#d3d3d3"}};
 $black: {{.black | default "#000000"}};
 $light: {{.light | default "#FAFAFA"}};
 $primary-color: {{.primary_color | default "#FE6019"}};

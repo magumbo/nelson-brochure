@@ -14,9 +14,10 @@ disqusShortname = "themefisher-template" # get your shortname form here : https:
 ###
 
 [params.variables]
-white = "#f8f7f2"
+white = "#ffffff"
+grey = "#F8F7F2"
 black = "#000000"
-light = "#FAFAFA"
+light = "#ECF598"
 #primary_color = "#FE6019"
 primary_color = "#2D635E"
 
