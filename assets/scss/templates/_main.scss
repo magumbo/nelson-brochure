@@ -15,8 +15,17 @@
     }
   }
 
-  .hero-image{
-    background-image: url("./thing/hero-image.jpg");
+  .banner-title{
+    color: $white;
+  }
+
+  .hero-background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
   }
 
   .block,

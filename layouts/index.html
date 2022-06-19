@@ -39,6 +39,7 @@
       <span aria-hidden="true">&times;</span>
     </button>
 
+
     <div class="has-circle has-bg-anim" style="opacity: .5">
       <img class="wave-1 w-100" src="{{`images/waves/05.svg` | absURL}}" alt="*">
       <span class="circle-1 ratio-32"></span>
@@ -54,15 +55,22 @@
 {{end}}
 
 {{with .Params.banner}}
-<section class="banner">
-  <div class="container-xxl hero-image">
+<section class="banner hero-image">
 
-
+  {{with .bg_image}}
+  <div class="hero-background">
+        {{$img:= resources.Get . }}
+        {{$img:= $img.Resize "1440x webp"}}
+        <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
+  </div>
+  {{end}}
+        
+  <div class="container-xxl">
     <div class="row text-center">
       <div class="col-12">
         <div class="block row justify-content-center no-gutters" data-aos="fade-up">
           <div class="col-lg-10 px-0 px-xl-4" data-rellax-speed="-3">
-            <h1 class="mb-4" data-aos="fade-up">{{.title | markdownify}}</h1>
+            <h1 class="mb-4 white banner-title" data-aos="fade-up">{{.title | markdownify}}</h1>
             <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{.button}}</a>
           </div>
         </div>
@@ -72,13 +80,14 @@
           <div class="row justify-content-center">
             <div class="col-lg-10">
               {{$img:= resources.Get . }}
-              {{$img:= $img.Resize "1020x webp"}}
+              {{$img:= $img.Resize "920x png"}}
               <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
             </div>
           </div>
         </div>
         {{end}}
 
+        <!--
         <div class="has-circle">
           <span class="circle-1 ratio-32" data-rellax-speed="-2"></span>
           <span class="circle-2 ratio-85 fill" data-rellax-speed="2"></span>
@@ -91,6 +100,8 @@
           <span class="circle-9 ratio-20 fill" data-rellax-speed="1"></span>
           <span class="circle-10 ratio-65 fill" data-rellax-speed="-2"></span>
         </div>
+      -->
+
       </div>
     </div>
   </div>
