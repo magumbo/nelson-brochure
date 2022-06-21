@@ -1,10 +1,10 @@
 ---
-date: 2021-07-13T04:00:00+00:00
-title: Why you should launch your product in phases not after done
+date: 2022-05-04T04:00:00+00:00
+title: Self-service is the future
 image: images/blog/02.jpg
 author_info:
-  name: Derick Barker
-  image: images/author/derick.jpg
+  name: Fredrik Sjoberg
+  image: ''
 
 ---
 Hospitality as an industry is stuck in the past. As per McKinsey’s digitalization index, hospitality is at the bottom of all industries ranked, right next to construction, agriculture and hunting (sic!). Big hotel chains and large hotel properties are seldom at the forefront of disruption. One area that is ripe for change is the whole concept of what a hotel is. It all starts with the definition of our industry.
