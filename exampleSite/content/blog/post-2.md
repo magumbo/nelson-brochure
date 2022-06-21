@@ -11,7 +11,7 @@ Hospitality as an industry is stuck in the past. As per McKinsey’s digitalizat
 
 > _Service is the technical delivery of a product. Hospitality is how the delivery of that product makes the recipient feel. Service is a monologue—we decide how we want to do things and set our own standards for service. Hospitality, on the other hand, is a dialogue._
 >
-> <cite>!Danny Meyer's book, _Setting the Table_ (2006)</cite>
+> <cite>!Danny Meyer, _Setting the Table_ (2006)</cite>
 
 If indeed hospitality requires humans at both sides of the translation - both on the guest side and the service provider side - then recent moves toward more self-service seem to challenge the industry to its core. What if the overnight experience is spotless, but a bot took care of most of the processes that delivered that experience, would that not be considered hospitality?
 
