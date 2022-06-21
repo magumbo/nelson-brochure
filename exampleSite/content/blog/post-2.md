@@ -1,6 +1,6 @@
 ---
 date: 2022-05-04T04:00:00+00:00
-title: Self-service is the future
+title: Self-service is the future YES
 image: images/blog/02.jpg
 author_info:
   name: Fredrik Sjoberg
