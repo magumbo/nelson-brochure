@@ -1,25 +1,24 @@
 ---
-date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
-image: "images/blog/01.jpg"
-author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/author/abdullah.jpg"
-draft: false
+date: 2022-04-06T04:00:00+00:00
+title: Self-service is the future
+image: images/blog/01.jpg
+author_info:
+  name: Fredrik Sjoberg
+  image: ''
+
 ---
+Hospitality as an industry is stuck in the past. As per McKinsey’s digitalization index, hospitality is at the bottom of all industries ranked, right next to construction, agriculture and hunting (sic!). Big hotel chains and large hotel properties are seldom at the forefront of disruption. One area that is ripe for change is the whole concept of what a hotel is. It all starts with the definition of our industry.
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
-
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
-
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
+> _Service is the technical delivery of a product. Hospitality is how the delivery of that product makes the recipient feel. Service is a monologue—we decide how we want to do things and set our own standards for service. Hospitality, on the other hand, is a dialogue._
 >
-> <cite>!Alexender Smith</cite>
+> <cite>!Danny Meyer, _Setting the Table_ (2006)</cite>
 
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
+If indeed hospitality requires humans at both sides of the translation - both on the guest side and the service provider side - then recent moves toward more self-service seem to challenge the industry to its core. What if the overnight experience is spotless, but a bot took care of most of the processes that delivered that experience, would that not be considered hospitality?
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
+Be that as it may. It is clear that hotel guests already live in the future. A recent survey of 5,266 consumers and 633 hotel executives across the world presents some stark statistics:
 
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+> _Nearly three-quarters (73%) of travelers want to use their mobile device to manage their hotel experience, including checking in and out, paying, ordering food and more._
+>
+> <cite>!Hotel Business June 6, 2022</cite>
+
+We already live in a world where our interactions with the real world are mediated by technology. If done well, this has the potential to lower the costs and bring in both more guests and entrepreneurs, as the whole industry is redefined.
