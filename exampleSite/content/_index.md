@@ -65,16 +65,16 @@ how_it_works:
   enable: true
   block:
   - subtitle: Nelson App
-    title: Complete Guest Management
-    description: 'Make sure guests have a seamless experience from booking to checking
-      out. Troubleshooting made easy with intuitive design. '
-    image: images/features-01.png
-  - subtitle: Nelson App
     title: Property management made easy
     description: What take multiple clicks in an old-school property management system
       is done in a heartbeat in Nelson's web app. The system is plugged into the physical
       property and can manage the workflow remotely
     image: images/features-02.png
+  - subtitle: Nelson App
+    title: Complete Guest Management
+    description: 'Make sure guests have a seamless experience from booking to checking
+      out. Troubleshooting made easy with intuitive design. '
+    image: images/features-01.png
 case_study:
   enable: false
   subtitle: Our Testimonials
