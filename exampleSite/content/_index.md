@@ -58,7 +58,7 @@ intro_video:
   enable: true
   subtitle: Short Intro Video
   title: See Nelson In Action
-  description: Nelson transformed this Finnish hotel over night
+  description: Omena Hotel Customer journey enabled by Nelson
   video_url: https://www.youtube.com/embed/-sy92Vul1Sw
   video_thumbnail: images/video-popup.jpg
 how_it_works:
