@@ -4,7 +4,7 @@ layout: about
 who_we_are:
   enable: true
   subtitle: Who We Are
-  title: Hello, We're here to help you
+  title: Hello, We’re Nelson Here for your Help
   description: Your online Health & Fitness companion that offers free assistance
     on its Facebook Group and provides quality paid guided personal training packages
     by and through website. We are the first ever, online manifesto in Bangladesh
