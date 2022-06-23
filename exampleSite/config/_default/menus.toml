@@ -14,10 +14,10 @@ name = "Blog"
 url = "blog/index.html"
 weight = 3
 
-[[main]]
-name = "Case Study"
-url = "case-study/index.html"
-weight = 4
+#[[main]]
+#name = "Case Study"
+#url = "case-study/index.html"
+#weight = 4
 
 #[[main]]
 #weight = 4
