@@ -1,10 +1,10 @@
 ---
-date: 2022-04-06T04:00:00+00:00
-title: Self-service is NOT the future
+date: 2022-04-06T04:00:00.000+00:00
+title: Self-service is the future
 image: images/blog/01.jpg
 author_info:
   name: Fredrik Sjoberg
-  image: "images/author/fred.jpg"
+  image: images/author/fred.jpg
 
 ---
 Hospitality as an industry is stuck in the past. As per McKinsey’s digitalization index, hospitality is at the bottom of all industries ranked, right next to construction, agriculture and hunting (sic!). Big hotel chains and large hotel properties are seldom at the forefront of disruption. One area that is ripe for change is the whole concept of what a hotel is. It all starts with the definition of our industry.
