@@ -26,10 +26,10 @@ what_we_do:
       things that machines are better at doing, like dynamic pricing, invoicing, or
       tax- and other authority reporting.
   - title: Optimize workflows
-    content: Cleaners and maintenance staff love our user-friendly mobile app that
+    content: 'Cleaners and maintenance staff love our user-friendly mobile app that
       allows them to go about their work independently, while at the same time providing
       them instantaneous feedback on their performance. With our approach there is
-      no need for a layer of middle managers.
+      no need for a layer of middle managers. '
   - title: Increase profitability
     content: Our conversion-obsessed booking engine will increase your direct sales,
       while keeping inventory optimized in online-travel agencies. Your sales commissions
