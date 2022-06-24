@@ -33,7 +33,7 @@ what_we_do:
   - title: Increase profitability
     content: Our conversion-obsessed booking engine will increase your direct sales,
       while keeping inventory optimized in online-travel agencies. Your sales commissions
-      will be lower. Other costs will also be lower as you embrace digital transformation
+      will be lower. Other costs will also be lower as you digitize your operations.
 our_mission:
   enable: true
   subtitle: OUR MISSION
