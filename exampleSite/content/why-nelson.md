@@ -15,15 +15,16 @@ what_we_do:
   subtitle: Our Works
   title: What We Do
   block:
-  - title: Digital transformation
-    content: We allow property owners and operators to reinvent their businesses.
-      Instead of clunky legacy software and on-premise solutions we live in the cloud.
-      With us you bring your property into the 21st century.
   - title: Embrace self-service
     content: Hotel guests are happy to bypass cumbersome in-person check-in or check-out
       processes, as long as guest communication is clear and the technical tools work
       spotlessly. Operators should focus on manual processes that add value, not on
       things that guests happily take care of themselves.
+  - title: Automate the tedious stuff
+    content: Automation is in our DNA. We do not focus on full-service hotels that
+      require in-person staff. Our tech stack is expressly designed to automate the
+      things that machines are better at doing, like dynamic pricing, invoicing, or
+      tax- and other authority reporting.
   - title: Optimize workflows
     content: Cleaners and maintenance staff love our user-friendly mobile app that
       allows them to go about their work independently, while at the same time providing
