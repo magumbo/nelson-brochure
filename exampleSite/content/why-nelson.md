@@ -16,10 +16,10 @@ what_we_do:
   title: What We Do
   block:
   - title: Embrace self-service
-    content: Hotel guests are happy to bypass cumbersome in-person check-in or check-out
+    content: 'Hotel guests are happy to bypass cumbersome in-person check-in or check-out
       processes, as long as guest communication is clear and the technical tools work
       spotlessly. Operators should focus on manual processes that add value, not on
-      things that guests happily take care of themselves.
+      things that guests happily take care of themselves. '
   - title: Automate the tedious stuff
     content: Automation is in our DNA. We do not focus on full-service hotels that
       require in-person staff. Our tech stack is expressly designed to automate the
