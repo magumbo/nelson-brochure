@@ -3,5 +3,5 @@ title: "contact"
 layout: "contact"
 draft: false
 
-contact_image: "images/sign-in.png"
+bg_image: "images/contact-bg.jpg"
 ---

@@ -41,7 +41,6 @@ reading_time = true
 # contact information
 [contact_info]
 address = "195 Montague Street, 14th Floor, Brooklyn, NY 11201"
-phone = ["+1 347 843 3248"]
 email = ["info@nelson.management"]
 
 # imaging processing

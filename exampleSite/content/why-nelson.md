@@ -16,20 +16,17 @@ what_we_do:
   title: What We Do
   block:
   - title: Embrace self-service
-    content: 'Hotel guests are happy to bypass cumbersome in-person check-in/out processes,
+    content: Hotel guests are happy to bypass cumbersome in-person check-in/out processes,
       as long as guest communication is clear and the technical tools work spotlessly.
       Operators should focus on manual processes that add value, not on things that
-      guests happily take care of themselves. '
-  - title: Automate the tedious stuff
-    content: Automation is in our DNA. We do not focus on full-service hotels that
-      require in-person staff. Our tech stack is expressly designed to automate the
-      things that machines are better at doing, like dynamic pricing, invoicing, or
-      tax- and other authority reporting.
+      guests happily take care of themselves.
   - title: Optimize workflows
-    content: 'Cleaners and maintenance staff love our user-friendly mobile app that
+    content: Cleaners and maintenance staff love our user-friendly mobile app that
       allows them to go about their work independently, while at the same time providing
       them instantaneous feedback on their performance. With our approach there is
-      no need for a layer of middle managers. '
+      no need for a layer of middle managers.
+  - title: Automate the tedious stuff
+    content: Automation is in our DNA. We do not focus on full-service hotels that require in-person staff. Our tech stack is expressly designed to automate the things that machines are better at doing, like invoicing, tax- and other authority reporting, or setting prices in real-time.
   - title: Increase profitability
     content: Our conversion-obsessed booking engine will increase your direct sales,
       while keeping inventory optimized in online-travel agencies. Your sales commissions
@@ -43,7 +40,7 @@ our_mission:
     experience by cutting out middlemen.
   image: images/why-nelson/02.jpg
 about_video:
-  enable: true
+  enable: false
   subtitle: A Short Video
   title: You Take Care Of The Payments, We Take Care Of The Rest.
   description: Protect your design vision and leave nothing up to interpretation with
@@ -52,12 +49,12 @@ about_video:
   video_url: https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: images/why-nelson/video-popup-2.jpg
 brands_carousel:
-  enable: true
+  enable: false
   subtitle: Our Clients
   title: Trusted by Thousands Companies
   section: "/"
 our_team:
-  enable: true
+  enable: false
   subtitle: Our members
   title: The People Behind
   description: We were freelance designers and developers, constantly finding <br>
@@ -73,7 +70,7 @@ our_team:
     image: images/why-nelson/team/03.jpg
     designation: Engineering
 our_office:
-  enable: true
+  enable: false
   subtitle: Our Offices
   title: Made with Love Of around the world With Many Offices
   description: We were freelance designers and developers, constantly finding <br>

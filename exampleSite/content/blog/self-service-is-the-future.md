@@ -1,7 +1,7 @@
 ---
 date: 2022-04-06T04:00:00.000+00:00
 title: Self-service is the future
-image: images/blog/01.jpg
+image: images/blog/02.jpg
 author_info:
   name: Fredrik Sjoberg
   image: images/author/fred.jpg

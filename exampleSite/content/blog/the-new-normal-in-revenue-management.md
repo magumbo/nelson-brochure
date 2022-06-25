@@ -3,7 +3,7 @@ date = 2022-04-22T04:00:00Z
 image = "images/blog/01.jpg"
 title = "The “new normal” in Revenue Management"
 [author_info]
-image = "images/author/fred.jpg"
+image = "images/author/hanna.jpg"
 name = "Hanna Lak"
 
 +++

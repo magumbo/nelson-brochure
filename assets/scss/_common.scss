@@ -425,7 +425,7 @@ body {
   border-left-color: lighten($primary-color, 20);
   height: 56px;
   transition: .3s ease;
-  background-color: lighten(saturate(adjust-hue($primary-color, 16), 0), 42.94);
+  //background-color: lighten(saturate(adjust-hue($primary-color, 16), 0), 42.94);
 
   &:focus {
     box-shadow: none;

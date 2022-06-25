@@ -94,7 +94,9 @@
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">
             <li>{{.address | markdownify}}</li>
+            {{with site.Params.contact_info.phone}}
             {{range first 1 .phone}}
+            {{end}}
             {{if .}}
             <li><a href="tel:{{.}}">{{.}}</a></li>
             {{end}}

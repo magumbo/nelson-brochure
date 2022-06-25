@@ -4,7 +4,7 @@ banner:
   button: Book A Demo
   button_link: contact/index.html
   image: images/banner-app-big.png
-  bg_image: images/banner-bg.png
+  bg_image: images/banner-bg.jpg
 brands_carousel:
   enable: false
   brand_images:

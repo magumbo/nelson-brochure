@@ -54,11 +54,11 @@ url = "blog/index.html"
 weight = 2
 
 [[footer]]
-name = "Blog Details"
-url = "blog/post-1/"
+name = "Contact"
+url = "contact/index.html"
 weight = 3
 
-[[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/index.html"
-weight = 4
+# [[footer]]
+# name = "Terms & Conditions"
+# url = "terms-and-conditions/index.html"
+# weight = 4

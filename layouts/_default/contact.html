@@ -1,19 +1,18 @@
 {{ define "main" }}
 
 <!--{{ partial "page-header.html" . }}-->
+<section class="banner hero-image">
 
-<section class="section">
+  {{with .Params.bg_image}}
+  <div class="hero-background">
+        {{$img:= resources.Get . }}
+        {{/*$img:= $img.Resize "1440x webp"*/}}
+        <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
+  </div>
+  {{end}}
+
   <div class="container">
     <div class="row justify-content-center align-items-center">
-      <div class="col-lg-5 col-md-8 text-center mb-5 mb-lg-0" data-aos="fade-up">
-        <div class="pr-0 pr-lg-5">
-          {{ if fileExists (add `assets/` .Params.contact_image) }}
-          {{$img:= resources.Get .Params.contact_image }}
-          {{$img:= $img.Resize "575x"}}
-          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
-          {{end}}
-        </div>
-      </div>
       {{with site.Params.contact_form_action}}
       <div class="col-lg-5 col-md-10" data-aos="fade-up">
         <div class="contact-form">
@@ -70,6 +69,10 @@
         form.addEventListener("submit", handleSubmit)
       </script>
       {{end}}
+
+            <div class="col-lg-5 col-md-8 text-center mb-5 mb-lg-0" data-aos="fade-up">
+
+      </div>
     </div>
 
     <div class="section pb-0">
