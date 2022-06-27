@@ -21,7 +21,7 @@ image = "images/logo.png"                # this image will be used as fallback i
 footer_info = "Born in Finland. Grown in New York."
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xyyoalgd" # contact form works with https://formspree.io
 
 # copyright
 copyright = "nelson 2022"

@@ -21,8 +21,20 @@
           </div>
         </div>
 
-        {{with .image}}
-        <div class="banner-image" data-aos="fade-up" data-aos-delay="300">
+        {{with .image_mobile}}
+        <div class="banner-image mobile-only" data-aos="fade-up" data-aos-delay="300">
+          <div class="row justify-content-center">
+            <div class="col-10">
+              {{$img:= resources.Get . }}
+              {{/*$img:= $img.Resize "920x png"*/}}
+              <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
+            </div>
+          </div>
+        </div>
+        {{end}}
+
+        {{with .image_desktop}}
+        <div class="banner-image desktop-only" data-aos="fade-up" data-aos-delay="300">
           <div class="row justify-content-center">
             <div class="col-lg-10">
               {{$img:= resources.Get . }}
