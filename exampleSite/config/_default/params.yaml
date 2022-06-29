@@ -1,0 +1,42 @@
+assetPath: assets/
+favicon: images/favicon.png
+logo: images/nelson-new-green.svg
+logo_width: 140x
+logo_text: Nelson
+description: This is meta description
+author: Themefisher
+image: images/logo.png
+footer_info: Born in Finland. Grown in New York.
+contact_form_action: https://formspree.io/f/xyyoalgd
+copyright: nelson 2022
+custom_script: ""
+buy_premium_popup: false
+mainSections:
+  - blog
+reading_time: true
+contact_info:
+  address: 195 Montague Street, 14th Floor, Brooklyn, NY 11201
+  email:
+    - info@nelson.management
+imaging:
+  quality: 100
+preloader:
+  enable: true
+  preloader: images/favicon.png
+cookies:
+  enable: false
+  expire_days: 2
+  content: This site uses cookies. By continuing to use this website, you agree to
+    their use.
+  button: I Accept
+cta:
+  enable: true
+  title: Get Nelson for your Property
+  content: Any size property can be a great fit for Nelson. Enquire with our team
+    about a demonstation.
+  button: Book A Demo
+  button_link: contact/index.html
+social:
+  - title: Nelson
+    icon: lab la-linkedin-in
+    link: https://www.linkedin.com/company/nelsontech

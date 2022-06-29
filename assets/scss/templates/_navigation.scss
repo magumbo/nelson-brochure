@@ -143,6 +143,10 @@ header {
     }
   }
 
+  .lang-code{
+    text-transform: uppercase;
+  }
+
   @media (min-width:991px) {
     .dropdown-menu {
       display: block;
@@ -225,3 +229,4 @@ header {
     }
   }
 }
+

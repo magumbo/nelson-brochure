@@ -1,0 +1,102 @@
+en:
+  contentDir: content/english
+  languageName: English
+  menu:
+    main:
+    - name: Home
+      url: ''
+      weight: 1
+    - name: Why Nelson
+      url: why-nelson/index.html
+      weight: 2
+    - name: Blog
+      url: blog/index.html
+      weight: 3
+    - name: Contact
+      url: contact/index.html
+      weight: 5
+    footer:
+    - name: Why Nelson
+      url: why-nelson/index.html
+      weight: 1
+    - name: Blog
+      url: blog/index.html
+      weight: 2
+    - name: Contact
+      url: contact/index.html
+      weight: 3
+  params:
+    navigation_button:
+      enable: true
+      label: Book A Demo
+      link: contact/index.html
+  title: Nelson - Operating System For A New Breed Of Hotels
+  weight: 1
+fi:
+  contentDir: content/finnish
+  languageName: Finnish
+  menu:
+    main:
+    - name: Koti
+      url: ''
+      weight: 1
+    - name: Miksi Nelson
+      url: why-nelson/index.html
+      weight: 2
+    - name: Blogi
+      url: blog/index.html
+      weight: 3
+    - name: Ottaa
+      url: contact/index.html
+      weight: 5
+    footer:
+    - name: Miksi Nelson
+      url: why-nelson/index.html
+      weight: 1
+    - name: Blogi
+      url: blog/index.html
+      weight: 2
+    - name: Ottaa
+      url: contact/index.html
+      weight: 3
+  params:
+    navigation_button:
+      enable: true
+      label: Varaa demo
+      link: contact/index.html
+  title: Nelson - Käyttöjärjestelmä uudelle hotellityypille
+  weight: 2
+sv:
+  contentDir: content/swedish
+  languageName: Swedish
+  menu:
+    main:
+    - name: Hem
+      url: ''
+      weight: 1
+    - name: Varför Nelson
+      url: why-nelson/index.html
+      weight: 2
+    - name: Blogg
+      url: blog/index.html
+      weight: 3
+    - name: Kontakt
+      url: contact/index.html
+      weight: 5
+    footer:
+    - name: Varför Nelson
+      url: why-nelson/index.html
+      weight: 1
+    - name: Blogg
+      url: blog/index.html
+      weight: 2
+    - name: Kontakt
+      url: contact/index.html
+      weight: 3
+  params:
+    navigation_button:
+      enable: true
+      label: Boka en demo
+      link: contact/index.html
+  title: Nelson - Operativsystem för en ny ras av hotell
+  weight: 3

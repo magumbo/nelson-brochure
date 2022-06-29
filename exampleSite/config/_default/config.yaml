@@ -1,0 +1,50 @@
+### Lang
+defaultContentLanguage: en
+baseURL: 'https://storage.googleapis.com/nelson-brochure/'
+theme: andromeda-light
+paginate: '6'
+summaryLength: '10'
+googleAnalytics: ''
+disqusShortname: themefisher-template
+params:
+  variables:
+    white: '#ffffff'
+    grey: '#F8F7F2'
+    black: '#000000'
+    light: '#ffffff'
+    primary_color: '#2D635E'
+    primary_font: 'Work Sans:wght@400;500;600'
+module:
+  hugoVersion:
+    extended: true
+    min: 0.83.1
+outputs:
+  home:
+    - HTML
+    - RSS
+    - WebAppManifest
+imaging:
+  quality: 90
+caches:
+  images:
+    dir: ':resourceDir/_gen'
+    maxAge: 720h
+  assets:
+    dir: ':resourceDir/_gen'
+    maxAge: 720h
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+mediaTypes:
+  application/manifest+json:
+    suffixes:
+      - webmanifest
+  text/netlify:
+    delimiter: ''
+    suffixes:
+      - ''
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
