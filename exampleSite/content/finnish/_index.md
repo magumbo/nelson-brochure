@@ -23,14 +23,15 @@ brands_carousel:
 features:
   enable: true
   subtitle: Nelson Features
-  title: Automations to<br> ease your workflow
-  description: Why perform the same manual tasks when Nelson can do it for you? <br>
-    Spend less time on boring stuff and more time on your passion.
+  title: Automatisoinnit<br> helpottavat työnkulkua
+  description: |
+    Miksi tehdä samoja manuaalisia tehtäviä yhä uudelleen ja uudelleen, kun Nelson voi tehdä sen puolestasi? <br>
+    Käytä vähemmän aikaa toistuviin asioihin ja enemmän intohimoasi
   features_blocks:
   - icon: las la-lock
-    title: Smart Locking
-    content: Nelson talks directly to your locks. No more keycards or check-in kiosks.
-      Guest just walk straight to their room when they arrive.
+    title: Älykäs lukitus
+    content: Nelson puhuu suoraan lukkojenne kanssa. Ei enää avainkortteja tai sisäänkirjautumiskioskeja.
+      Vieraat vain kävelevät suoraan huoneeseensa.
   - icon: las la-laptop
     title: Simple Booking Engine
     content: Drive direct sales with our mobile-friendly and conversion-obsessed booking
