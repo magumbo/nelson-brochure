@@ -4,7 +4,7 @@
 <section class="banner hero-image">
 
   {{with .Params.bg_image}}
-  <div class="hero-background">
+  <div class="hero-background contact-bg">
         {{$img:= resources.Get . }}
         {{/*$img:= $img.Resize "1440x webp"*/}}
         <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">

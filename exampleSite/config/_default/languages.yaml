@@ -63,7 +63,7 @@ fi:
     navigation_button:
       enable: true
       label: Varaa demo
-      link: contact/index.html
+      link: fi/contact/index.html
   title: Nelson - Käyttöjärjestelmä uudelle hotellityypille
   weight: 2
 sv:
@@ -97,6 +97,6 @@ sv:
     navigation_button:
       enable: true
       label: Boka en demo
-      link: contact/index.html
+      link: sv/contact/index.html
   title: Nelson - Operativsystem för en ny ras av hotell
   weight: 3
