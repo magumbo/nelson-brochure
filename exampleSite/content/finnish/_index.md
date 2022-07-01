@@ -53,9 +53,10 @@ features:
     content: Siivous- ja huoltohenkilöstö tekee taikuuttaan Nelsonin omalla mobiilisovelluksella,
       joka ohjaa, seuraa ja hallitsee kaikkea palvelutarjontaa.
   - icon: las la-comments
-    title: Guest comms
-    content: Guests receive automated emails and SMS with room and access information.
-      Our awesome templates allow for customizing upselling.
+    title: Asiakasviestintä
+    content: Vieraat saavat automaattisia sähköposti- ja tekstiviestejä, joissa on
+      tietoja huoneista ja pääsystä. Meidän pohjamallit mahdollistavat lisämyynnin
+      ja personalisoinnin.
 intro_video:
   enable: true
   subtitle: Short Intro Video
