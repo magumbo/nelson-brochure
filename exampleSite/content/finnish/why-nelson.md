@@ -29,10 +29,10 @@ what_we_do:
       vaativat henkilökohtaista henkilökuntaa. Meidän teknologia on nimenomaan suunniteltu
       automatisoimaan asioita, jotka koneet tekevät paremmin, kuten laskutuksen, vero-
       ja muiden viranomaisten raportoinnin tai hintojen määrittämisen reaaliajassa.
-  - title: Increase profitability
-    content: Our conversion-obsessed booking engine will increase your direct sales,
-      while keeping inventory optimized in online-travel agencies. Your sales commissions
-      will be lower. Other costs will also be lower as you digitize your operations.
+  - title: Kannattavampaa liiketoimintaa
+    content: Konversioihin sitoutunut varausmoottorimme lisää suoramyyntiäsi ja pitää
+      ulkoisten kanavien saatavuutta optimoituna. Myyntipalkkiosi ovat täten alhaisemmat.
+      Myös muut kustannukset pienenevät, kun digitalisoit toimintaasi.
 our_mission:
   enable: true
   subtitle: OUR MISSION
