@@ -41,9 +41,9 @@ features:
     content: Huonehinnat voidaan asettaa Nelsonin omalla koneoppimisalgoritmilla,
       joka säätää hintoja reaaliajassa, jotta sinun ei tarvitse tehdä sitä.
   - icon: las la-link
-    title: OTA Integrations
-    content: We connect directly with Booking.com and Expedia. Channel distribution
-      is optimized so as to maximize profit. No more extranets.
+    title: OTA-integraatiot
+    content: Suora integrointi tärkeimpiin ulkopuolisiin kanaviin. Kanavajakelu on
+      optimoitu tuoton maksimoimiseksi. Ei enää ekstranettejä.
   - icon: las la-mobile
     title: Nelson App
     content: Respond to customer requests from anywhere through our web app. Moving
