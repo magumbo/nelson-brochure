@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Kuka tahansa voi pyörittää hotellia
+  title: Kuka tahansa voi <br> pyörittää hotellia
   button: Varaa demo
   button_link: contact/index.html
   image_mobile: images/banner-app-phone.png
