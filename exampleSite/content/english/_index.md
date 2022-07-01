@@ -71,7 +71,7 @@ how_it_works:
       is done in a heartbeat in Nelson's web app. The system is plugged into the physical
       property and can manage the workflow remotely.
     image: images/features-02.png
-  - subtitle: Nelson App
+  - subtitle: CRM
     title: Complete Guest Management
     description: Make sure guests have a seamless experience from booking to checking
       out. Troubleshooting made easy with intuitive design.
