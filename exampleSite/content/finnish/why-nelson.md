@@ -24,11 +24,11 @@ what_we_do:
     content: Siivoojat ja huoltohenkilöstö arvostavat käyttäjäystävällistä mobiilisovellustamme,
       jonka avulla he voivat tehdä työtään itsenäisesti ja samalla antaa välitöntä
       palautetta suorituksistaan. Lähestymistapamme mukaan tarvitset vähemmän keskijohtajia.
-  - title: Automate the tedious stuff
-    content: Automation is in our DNA. We do not focus on full-service hotels that
-      require in-person staff. Our tech stack is expressly designed to automate the
-      things that machines are better at doing, like invoicing, tax- and other authority
-      reporting, or setting prices in real-time.
+  - title: Automatisoi tylsiä asioita
+    content: Automaatio on DNA:ssamme. Emme keskity täyden palvelun hotelleihin, jotka
+      vaativat henkilökohtaista henkilökuntaa. Meidän teknologia on nimenomaan suunniteltu
+      automatisoimaan asioita, jotka koneet tekevät paremmin, kuten laskutuksen, vero-
+      ja muiden viranomaisten raportoinnin tai hintojen määrittämisen reaaliajassa.
   - title: Increase profitability
     content: Our conversion-obsessed booking engine will increase your direct sales,
       while keeping inventory optimized in online-travel agencies. Your sales commissions
