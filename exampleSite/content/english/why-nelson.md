@@ -12,7 +12,7 @@ who_we_are:
   image: images/why-nelson/01.jpg
 what_we_do:
   enable: true
-  subtitle: Our Works
+  subtitle: In action
   title: What We Do
   block:
   - title: Embrace self-service
@@ -26,7 +26,10 @@ what_we_do:
       them instantaneous feedback on their performance. With our approach there is
       no need for a layer of middle managers.
   - title: Automate the tedious stuff
-    content: Automation is in our DNA. We do not focus on full-service hotels that require in-person staff. Our tech stack is expressly designed to automate the things that machines are better at doing, like invoicing, tax- and other authority reporting, or setting prices in real-time.
+    content: Automation is in our DNA. We do not focus on full-service hotels that
+      require in-person staff. Our tech stack is expressly designed to automate the
+      things that machines are better at doing, like invoicing, tax- and other authority
+      reporting, or setting prices in real-time.
   - title: Increase profitability
     content: Our conversion-obsessed booking engine will increase your direct sales,
       while keeping inventory optimized in online-travel agencies. Your sales commissions
