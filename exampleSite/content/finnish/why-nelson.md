@@ -20,11 +20,10 @@ what_we_do:
       kunhan viestintä on selkeää ja tekniset työkalut toimivat moitteettomasti. Operaattoreiden
       tulisi keskittyä manuaalisiin prosesseihin, jotka tuovat lisäarvoa, eikä asioihin
       joita asiakkaat mielellään tekevät itse.
-  - title: Optimize workflows
-    content: Cleaners and maintenance staff love our user-friendly mobile app that
-      allows them to go about their work independently, while at the same time providing
-      them instantaneous feedback on their performance. With our approach there is
-      no need for a layer of middle managers.
+  - title: Optimoi työntapoja
+    content: Siivoojat ja huoltohenkilöstö arvostavat käyttäjäystävällistä mobiilisovellustamme,
+      jonka avulla he voivat tehdä työtään itsenäisesti ja samalla antaa välitöntä
+      palautetta suorituksistaan. Lähestymistapamme mukaan tarvitset vähemmän keskijohtajia.
   - title: Automate the tedious stuff
     content: Automation is in our DNA. We do not focus on full-service hotels that
       require in-person staff. Our tech stack is expressly designed to automate the
