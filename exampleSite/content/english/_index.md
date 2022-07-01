@@ -65,7 +65,7 @@ intro_video:
 how_it_works:
   enable: true
   block:
-  - subtitle: Nelson App
+  - subtitle: Calendar View
     title: Property management made easy
     description: What take multiple clicks in an old-school property management system
       is done in a heartbeat in Nelson's web app. The system is plugged into the physical
