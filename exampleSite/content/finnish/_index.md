@@ -59,9 +59,9 @@ features:
       ja personalisoinnin.
 intro_video:
   enable: true
-  subtitle: Short Intro Video
-  title: See Nelson In Action
-  description: Omena Hotel Customer journey enabled by Nelson.
+  subtitle: Lyhyt intro video
+  title: Näe Nelson toiminnassa
+  description: Nelsonin mahdollistama asiakaspolku Omenahotelleissa
   video_url: https://www.youtube.com/embed/-sy92Vul1Sw
   video_thumbnail: images/video-popup.jpg
 how_it_works:
