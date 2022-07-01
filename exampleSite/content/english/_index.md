@@ -44,7 +44,7 @@ features:
     content: We connect directly with Booking.com and Expedia. Channel distribution
       is optimized so as to maximize profit. No more extranets.
   - icon: las la-mobile
-    title: Nelson App
+    title: Management UI
     content: Respond to customer requests from anywhere through our web app. Moving
       a customer to another room or getting sales reports has never been easier.
   - icon: las la-paint-brush
