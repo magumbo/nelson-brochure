@@ -45,9 +45,9 @@ features:
     content: Suora integrointi tärkeimpiin ulkopuolisiin kanaviin. Kanavajakelu on
       optimoitu tuoton maksimoimiseksi. Ei enää ekstranettejä.
   - icon: las la-mobile
-    title: Nelson App
-    content: Respond to customer requests from anywhere through our web app. Moving
-      a customer to another room or getting sales reports has never been easier.
+    title: Hallintakäyttöliittymä
+    content: Vastaa asiakkaiden pyyntöihin mistä tahansa netin kautta. Asiakkaan siirtäminen
+      toiseen huoneeseen tai myyntiraporttien saaminen ei ole koskaan ollut helpompaa.
   - icon: las la-paint-brush
     title: Service App
     content: Cleaning and maintenance staff work their magic using Nelson's own mobile
