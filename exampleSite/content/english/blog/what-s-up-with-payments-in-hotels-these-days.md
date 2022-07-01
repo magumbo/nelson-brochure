@@ -1,25 +1,25 @@
 +++
-date = 2022-04-06T04:00:00Z
+date = 2022-06-24T04:00:00Z
 draft = true
 image = "images/blog/02.jpg"
-title = "What’s up with payments in hotels these days?"
+title = "Laurence Tunnicliffe"
 [author_info]
 image = "images/author/fred.jpg"
-name = "Fredrik Sjoberg"
+name = "Laurence Tunnicliffe"
 
 +++
-Hospitality as an industry is stuck in the past. As per McKinsey’s digitalization index, hospitality is at the bottom of all industries ranked, right next to construction, agriculture and hunting (sic!). Big hotel chains and large hotel properties are seldom at the forefront of disruption. One area that is ripe for change is the whole concept of what a hotel is. It all starts with the definition of our industry.
+Days of paying for your hotel stay at reception at checkout seem to be over. And all suppliers from the industry; OTA’s, PMS’s and Booking Engines promise to have the perfect solution for hoteliers. Most relevant question for hotels these days is what is up with payments and how can you as a hotelier ensure you remain in charge of your payment policies and make them work for you?
 
-> _Service is the technical delivery of a product. Hospitality is how the delivery of that product makes the recipient feel. Service is a monologue—we decide how we want to do things and set our own standards for service. Hospitality, on the other hand, is a dialogue._
->
-> <cite>!Danny Meyer, _Setting the Table_ (2006)</cite>
+Zooming out the process is fairly simple. Reservations are made and payment for the “service” or room needs to be made somewhere during the process. Some hotels go for full prepayment others offer more flexible payment policies which are paid at check in/out. What payment policies are good for your hotel really depend on the type of hotel, but also booking source and preference of guests. Btw. not to be mistaken by cancellation policies which are a whole different ball game.
 
-If indeed hospitality requires humans at both sides of the translation - both on the guest side and the service provider side - then recent moves toward more self-service seem to challenge the industry to its core. What if the overnight experience is spotless, but a bot took care of most of the processes that delivered that experience, would that not be considered hospitality?
+But whatever payment strategy hotels will choose most suppliers have off the shelf solutions ready to support hoteliers in the payment operations. Understanding how the payment companies work, where transaction costs go, and becoming educated on payments in general will be of great help for hotels that are justly cautious about losing another 3 or 4% margin on their income streams.
 
-Be that as it may. It is clear that hotel guests already live in the future. A recent survey of 5,266 consumers and 633 hotel executives across the world presents some stark statistics:
+If full prepayment is for example chosen the booking source is of essence in how the prepayment is handled. For the hotel operations hoteliers should always be looking for ways to streamline operations with the minimal amount of manual work involved. If reservation is received via Booking for example, it will be the OTA that offers several services to handle the guests payments. Not without a price of course but you as a hotelier are sure of the revenue and will have no payment handling at the property itself.
 
-> _Nearly three-quarters (73%) of travelers want to use their mobile device to manage their hotel experience, including checking in and out, paying, ordering food and more._
->
-> <cite>!Hotel Business June 6, 2022</cite>
+Booking.com recently rolling out a prepayment program and turning more and more into a merchant itself is just one example of supplier that is also getting into the payment processing business:
 
-We already live in a world where our interactions with the real world are mediated by technology. If done well, this has the potential to lower the costs and bring in both more guests and entrepreneurs, as the whole industry is redefined.
+> _Four out of ten (40%) Booking.com reservations in Q1/2022 were processed through the OTA’s payment platform, an 48% increment compared to the last year (Q1/2021 accounted for 27%) and twice as much as just four years ago (2018) when the number was 20%._
+
+Pablo Delgado on [Mirai](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/), June 2, 2022
+
+It looks like the more innovative players from the payments industry are making their way into hospitality. Flawless guest experience and hoteliers finding creative and cost effective ways to handle their payments will be the drivers for innovation in the coming years. It just happened that OTA’s suddenly owned the booking market…..will history repeat and will this happen with payment middlemen again or did the industry learn its lesson?
