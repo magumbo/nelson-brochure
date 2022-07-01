@@ -49,9 +49,9 @@ features:
     content: Vastaa asiakkaiden pyyntöihin mistä tahansa netin kautta. Asiakkaan siirtäminen
       toiseen huoneeseen tai myyntiraporttien saaminen ei ole koskaan ollut helpompaa.
   - icon: las la-paint-brush
-    title: Service App
-    content: Cleaning and maintenance staff work their magic using Nelson's own mobile
-      app that guides, tracks, and manages all service provision.
+    title: Palvelusovellus
+    content: Siivous- ja huoltohenkilöstö tekee taikuuttaan Nelsonin omalla mobiilisovelluksella,
+      joka ohjaa, seuraa ja hallitsee kaikkea palvelutarjontaa.
   - icon: las la-comments
     title: Guest comms
     content: Guests receive automated emails and SMS with room and access information.
