@@ -35,11 +35,13 @@ what_we_do:
       Myös muut kustannukset pienenevät, kun digitalisoit toimintaasi.
 our_mission:
   enable: true
-  subtitle: OUR MISSION
-  title: Main Vision And Mission Of Our Company
-  description: At Nelson we believe that anyone can be a hotelier. Running a hotel
-    can be a lot of fun. We allow end-users – guests – to enjoy a seamless overnight
-    experience by cutting out middlemen.
+  subtitle: MISSIOMME
+  title: Yrityksemme tärkein visio ja missio
+  description: 'Me Nelsonilla uskomme, että kuka tahansa voi olla hotellinpitäjä.
+    Hotellin operoiminen voi olla hauskaa. Mahdollistamme loppukäyttäjille – majoittujille
+    – saumattoman majoitus-kokemuksen poistamalla turhia välikäsiä.
+
+    '
   image: images/why-nelson/02.jpg
 about_video:
   enable: false
