@@ -6,7 +6,6 @@ logo_text: Nelson
 description: This is meta description
 author: Themefisher
 image: images/logo.png
-footer_info: Born in Finland. Grown in New York.
 contact_form_action: https://formspree.io/f/xyyoalgd
 copyright: nelson 2022
 custom_script: ""
@@ -29,13 +28,6 @@ cookies:
   content: This site uses cookies. By continuing to use this website, you agree to
     their use.
   button: I Accept
-cta:
-  enable: true
-  title: Get Nelson for your Property
-  content: Any size property can be a great fit for Nelson. Enquire with our team
-    about a demonstation.
-  button: Book A Demo
-  button_link: contact/index.html
 social:
   - title: Nelson
     icon: lab la-linkedin-in

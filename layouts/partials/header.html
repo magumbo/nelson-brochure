@@ -59,17 +59,27 @@
                   {{ end }}
                 </ul>
         
-                {{ if $navButton }}
 
-                <div class="navbar-right lang">
+                <ul class="navbar-nav mx-auto mobile-only">
+                  {{ range $.Site.Home.AllTranslations }}
+                  {{ $active := eq $.Site.Language .Language }}
+                  <li class="nav-item">
+                    <a class="dropdown-item {{if $active}}active{{end}}" title="{{ .Language.LanguageName }}" rel="noopener"
+                    href="{{ .Permalink }}">
+                      <span class="lang-code">{{ .Language}}</span> - <span>{{ .Language.LanguageName }}</span></a>
+                  </li>
+                  {{ end }}
+                </ul>
+
+                <!-- Desktop -->
+                <div class="navbar-right lang desktop-only">
                   <ul class="navbar-nav">
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown"> 
                       <a class="nav-link dropdown-toggle lang-code" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ $.Site.Language }} <!-- <img class="lang-flag"> -->
                       </a>
                       <ul class="dropdown-menu">
                         {{ range $.Site.Home.AllTranslations }}
-
                         {{ $active := eq $.Site.Language .Language }}
 
                         <li>
@@ -83,6 +93,7 @@
                   </ul>
                 </div>
 
+                {{ if $navButton }}
                 <div class="navbar-right">
                   <a href="{{ site.Params.navigation_button.link | relURL }}" class="btn btn-primary">{{ site.Params.navigation_button.label }}</a>
                 </div>

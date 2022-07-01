@@ -26,6 +26,18 @@ en:
       url: contact/index.html
       weight: 3
   params:
+    cta:
+      enable: true
+      title: Get Nelson for your Property
+      content: Any size property can be a great fit for Nelson. Enquire with our team
+        about a demonstation.
+      button: Book A Demo
+      button_link: contact/index.html
+    footer_info:
+      subtitle: Born in Finland. Grown in New York.
+      socials: Socials
+      quick_links: Quick Links
+      location: Location
     navigation_button:
       enable: true
       label: Book A Demo
@@ -37,7 +49,7 @@ fi:
   languageName: Finnish
   menu:
     main:
-    - name: Koti
+    - name: Etusivu
       url: ''
       weight: 1
     - name: Miksi Nelson
@@ -46,7 +58,7 @@ fi:
     - name: Blogi
       url: blog/index.html
       weight: 3
-    - name: Ottaa
+    - name: Ota yhteyttä
       url: contact/index.html
       weight: 5
     footer:
@@ -56,47 +68,72 @@ fi:
     - name: Blogi
       url: blog/index.html
       weight: 2
-    - name: Ottaa
+    - name: Ota yhteyttä
       url: contact/index.html
       weight: 3
   params:
+    cta:
+      enable: true
+      title: Hanki Nelson kiinteistösi
+      content: Minkä tahansa kokoinen kiinteistö voi sopia hyvin Nelsonille. Kysy tiimiltämme demosta
+      button: Varaa demo
+      button_link: contact/index.html
+    footer_info:
+      subtitle: Syntynyt Suomessa. Kasvatettu New Yorkissa.
+      socials: Some
+      quick_links: Pikalinkit
+      location: Osoite
     navigation_button:
       enable: true
       label: Varaa demo
       link: fi/contact/index.html
   title: Nelson - Käyttöjärjestelmä uudelle hotellityypille
   weight: 2
-sv:
-  contentDir: content/swedish
-  languageName: Swedish
-  menu:
-    main:
-    - name: Hem
-      url: ''
-      weight: 1
-    - name: Varför Nelson
-      url: why-nelson/index.html
-      weight: 2
-    - name: Blogg
-      url: blog/index.html
-      weight: 3
-    - name: Kontakt
-      url: contact/index.html
-      weight: 5
-    footer:
-    - name: Varför Nelson
-      url: why-nelson/index.html
-      weight: 1
-    - name: Blogg
-      url: blog/index.html
-      weight: 2
-    - name: Kontakt
-      url: contact/index.html
-      weight: 3
-  params:
-    navigation_button:
-      enable: true
-      label: Boka en demo
-      link: sv/contact/index.html
-  title: Nelson - Operativsystem för en ny ras av hotell
-  weight: 3
+
+# sv:
+#   contentDir: content/swedish
+#   languageName: Swedish
+#   menu:
+#     main:
+#     - name: Hem
+#       url: ''
+#       weight: 1
+#     - name: Varför Nelson
+#       url: why-nelson/index.html
+#       weight: 2
+#     - name: Blogg
+#       url: blog/index.html
+#       weight: 3
+#     - name: Kontakt
+#       url: contact/index.html
+#       weight: 5
+#     footer:
+#     - name: Varför Nelson
+#       url: why-nelson/index.html
+#       weight: 1
+#     - name: Blogg
+#       url: blog/index.html
+#       weight: 2
+#     - name: Kontakt
+#       url: contact/index.html
+#       weight: 3
+#   params:
+      #  cta:
+      #   enable: true
+      #   title: Get Nelson for your Property
+      #   content: Any size property can be a great fit for Nelson. Enquire with our team
+      #     about a demonstation.
+      #   button: Book A Demo
+      #   button_link: contact/index.html
+      # footer_info:
+      #   subtitle: Born in Finland. Grown in New York.
+      #   socials: Socials
+      #   quick_links: Quick Links
+      #   location: Location
+#   
+#     navigation_button:
+#       enable: true
+#       label: Boka en demo
+#       link: sv/contact/index.html
+#   title: Nelson - Operativsystem för en ny ras av hotell
+#   weight: 3

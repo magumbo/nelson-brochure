@@ -55,7 +55,7 @@ $(document).ready(function () {
 	'use strict';
 
 	// dropdownAnimation
-	function dropdownAnimation() {
+	function dropdownAnimation() { 
 		$('.header-nav').find('.dropdown-menu').each(function (idx, item) {
 			$(this).height($(this).height());
 		});
