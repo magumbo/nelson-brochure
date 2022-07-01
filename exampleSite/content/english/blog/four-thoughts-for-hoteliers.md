@@ -1,6 +1,5 @@
 +++
 date = 2022-07-01T04:00:00Z
-draft = true
 image = "images/blog/02.jpg"
 title = "Four Thoughts for Hoteliers"
 [author_info]
