@@ -34,8 +34,9 @@ features:
       Vieraat vain kävelevät suoraan huoneeseensa.
   - icon: las la-laptop
     title: Yksinkertainen varausmoottori
-    content: Suoramyyntiä mobiiliystävällisen ja konversioihin sitoutuneen varausmoottorimme
-      avulla. Se voidaan muokata näyttämään juuri sellaiselta kuin haluat.
+    content: Lisää suoramyyntiä mobiiliystävällisen ja konversioihin keskittyneen
+      varausmoottorimme avulla. Voit muokata sen näyttämään juuri sellaiselta kuin
+      haluat.
   - icon: las la-robot
     title: AI-hinnoittelu
     content: Huonehinnat voidaan asettaa Nelsonin omalla koneoppimisalgoritmilla,
