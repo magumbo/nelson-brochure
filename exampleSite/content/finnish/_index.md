@@ -74,10 +74,11 @@ how_it_works:
       tapahtuu Nelsonissa vikkelästi. Järjestelmä on kytketty hotelleihin ja voit
       helposti operoida hotellia etänä
     image: images/features-02.png
-  - subtitle: Nelson App
-    title: Complete Guest Management
-    description: Make sure guests have a seamless experience from booking to checking
-      out. Troubleshooting made easy with intuitive design.
+  - subtitle: 'CRM '
+    title: Täydellinen asiakasshallinta
+    description: Työkaluillamme voit varmistaa vieraille saumattoman kokemuksen varauksesta
+      uloskirjautumiseen. Vianetsintä on tehty helpoksi intuitiivisen suunnittelun
+      ansiosta. Ongelmat voidaan ratkaista kaukaa.
     image: images/features-01.png
 case_study:
   enable: false
