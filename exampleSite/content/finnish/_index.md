@@ -37,9 +37,9 @@ features:
     content: Suoramyyntiä mobiiliystävällisen ja konversioihin sitoutuneen varausmoottorimme
       avulla. Se voidaan muokata näyttämään juuri sellaiselta kuin haluat.
   - icon: las la-robot
-    title: AI-powered pricing
-    content: Room rates can be set by Nelson's proprietary machine learning algorithm
-      that adjusts prices in real-time so that you don't have to.
+    title: AI-hinnoittelu
+    content: Huonehinnat voidaan asettaa Nelsonin omalla koneoppimisalgoritmilla,
+      joka säätää hintoja reaaliajassa, jotta sinun ei tarvitse tehdä sitä.
   - icon: las la-link
     title: OTA Integrations
     content: We connect directly with Booking.com and Expedia. Channel distribution
