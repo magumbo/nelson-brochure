@@ -1,5 +1,5 @@
 ---
-title: Why Nelson
+title: Miksi Nelson
 layout: about
 who_we_are:
   enable: true
@@ -12,14 +12,14 @@ who_we_are:
   image: images/why-nelson/01.jpg
 what_we_do:
   enable: true
-  subtitle: Our Works
-  title: What We Do
+  subtitle: In action
+  title: Mitä me teemme
   block:
-  - title: Embrace self-service
-    content: Hotel guests are happy to bypass cumbersome in-person check-in/out processes,
-      as long as guest communication is clear and the technical tools work spotlessly.
-      Operators should focus on manual processes that add value, not on things that
-      guests happily take care of themselves.
+  - title: Innostu itsepalvelusta
+    content: Majoittujat ohittavat mielellään vaivalloiset sisään-/uloskirjautumisprosessit,
+      kunhan viestintä on selkeää ja tekniset työkalut toimivat moitteettomasti. Operaattoreiden
+      tulisi keskittyä manuaalisiin prosesseihin, jotka tuovat lisäarvoa, eikä asioihin
+      joita asiakkaat mielellään tekevät itse.
   - title: Optimize workflows
     content: Cleaners and maintenance staff love our user-friendly mobile app that
       allows them to go about their work independently, while at the same time providing
