@@ -22,7 +22,7 @@ brands_carousel:
   - images/brands/05-colored.png
 features:
   enable: true
-  subtitle: Nelson Features
+  subtitle: Nelson toiminnallisuudet
   title: Automatisoinnit<br> helpottavat työnkulkua
   description: |
     Miksi tehdä samoja manuaalisia tehtäviä yhä uudelleen ja uudelleen, kun Nelson voi tehdä sen puolestasi? <br>
