@@ -70,9 +70,11 @@ how_it_works:
   block:
   - subtitle: Kalenterinäkymä
     title: Kiinteistönhallinta tehty helpoksi
-    description: Se, mikä vaatii useita napsautuksia perinteisessä hallintajärjestelmässä,
-      tapahtuu Nelsonissa vikkelästi. Järjestelmä on kytketty hotelleihin ja voit
-      helposti operoida hotellia etänä
+    description: 'Se, mikä vaatii useita klikkauksia perinteisessä hallintajärjestelmässä,
+      tapahtuu Nelsonissa helposti ja yksinkertaisesti. Järjestelmä on kytketty hotelleihin
+      elektronisesti ja voit helposti operoida hotellia etänä.
+
+      '
     image: images/features-02.png
   - subtitle: 'CRM '
     title: Täydellinen asiakasshallinta
