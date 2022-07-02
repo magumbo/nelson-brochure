@@ -78,9 +78,9 @@ how_it_works:
     image: images/features-02.png
   - subtitle: 'CRM '
     title: Täydellinen asiakasshallinta
-    description: Työkaluillamme voit varmistaa vieraille saumattoman kokemuksen varauksesta
-      uloskirjautumiseen. Vianetsintä on tehty helpoksi intuitiivisen suunnittelun
-      ansiosta. Ongelmat voidaan ratkaista kaukaa.
+    description: Työkaluillamme voit varmistaa vieraillenne saumattoman kokemuksen
+      varauksesta uloskirjautumiseen. Haasteiden kartoittaminen ja ratkaisu on tehty
+      helpoksi intuitiivisen suunnittelun ansiosta. Ongelmat voidaan ratkaista etänä.
     image: images/features-01.png
 case_study:
   enable: false
