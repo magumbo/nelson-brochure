@@ -1,6 +1,5 @@
 +++
 date = 2022-06-24T04:00:00Z
-draft = true
 image = "images/blog/02.jpg"
 title = "What’s up with payments in hotels these days?"
 [author_info]
