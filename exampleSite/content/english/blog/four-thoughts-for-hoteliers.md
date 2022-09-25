@@ -1,5 +1,5 @@
 +++
-date = 2022-07-01T04:00:00Z
+date = 2022-09-25T04:00:00Z
 image = "images/blog/03.jpg"
 title = "Four Thoughts for Hoteliers"
 [author_info]
