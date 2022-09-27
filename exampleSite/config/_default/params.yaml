@@ -3,9 +3,9 @@ favicon: images/favicon.png
 logo: images/nelson-new-green.svg
 logo_width: 140x
 logo_text: Nelson
-description: This is meta description
-author: Themefisher
-image: images/logo.png
+description: Nelson - Operating System For A New Breed Of Hotels where Anyone can be a hotelier
+author: Nelson (Built on original theme Themefisher)
+image: images/nelson-new-green.svg
 contact_form_action: https://formspree.io/f/xyyoalgd
 copyright: nelson 2022
 custom_script: ""
