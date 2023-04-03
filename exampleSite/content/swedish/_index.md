@@ -45,9 +45,9 @@ features:
     content: Vi ansluter direkt till de stora bokningskanalerna. Kanaldistributionen
       är optimerad för att maximera vinsten. Inga fler extranät.
   - icon: las la-mobile
-    title: Nelson App
-    content: Respond to customer requests from anywhere through our web app. Moving
-      a customer to another room or getting sales reports has never been easier.
+    title: Nelson Web App
+    content: Svara på kundfrågor var som helst via vår webb app. Att flytta en kund
+      till ett annat rum eller få försäljningsrapporter har aldrig varit enklare.
   - icon: las la-paint-brush
     title: Service App
     content: Städ- och underhållspersonal arbetar gör sin magi med hjälp av Nelsons
