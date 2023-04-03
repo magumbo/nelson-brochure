@@ -20,11 +20,11 @@ what_we_do:
       länge gästkommunikationen är tydlig och de tekniska verktygen fungerar klockrent.
       Operatörer bör fokusera sitt manuella arbete på sådant som tillför värde för
       gästerna, inte på sådant som gästerna gärna tar hand om själva.
-  - title: Optimize workflows
-    content: Cleaners and maintenance staff love our user-friendly mobile app that
-      allows them to go about their work independently, while at the same time providing
-      them instantaneous feedback on their performance. With our approach there is
-      no need for a layer of middle managers.
+  - title: Optimera arbetsflöden
+    content: Städare och underhållspersonal älskar vår användarvänliga mobilapp som
+      låter dem utföra sitt arbete självständigt, samtidigt som de ger dem omedelbar
+      feedback om deras prestation. Med vårt förhållningssätt behövs inget lager av
+      mellanchefer.
   - title: Automate the tedious stuff
     content: Automation is in our DNA. We do not focus on full-service hotels that
       require in-person staff. Our tech stack is expressly designed to automate the
