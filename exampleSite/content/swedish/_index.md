@@ -29,9 +29,9 @@ features:
     Lägg mindre tid på repetitiva saker och mer tid på din passion
   features_blocks:
   - icon: las la-lock
-    title: Smart Locking
-    content: Nelson talks directly to your locks. No more keycards or check-in kiosks.
-      Guest just walk straight to their room when they arrive.
+    title: Smarta Lås
+    content: Nelson pratar direkt med dina elektroniska lås. Inga fler nyckelkort
+      eller incheckningskiosker. Gästerna går bara direkt till sina rum när de kommer.
   - icon: las la-laptop
     title: Simple Booking Engine
     content: Drive direct sales with our mobile-friendly and conversion-obsessed booking
