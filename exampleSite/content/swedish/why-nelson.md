@@ -1,19 +1,19 @@
 ---
-title: Why Nelson
+title: Varför Nelson
 layout: about
 who_we_are:
   enable: true
-  subtitle: Who We Are
-  title: Hello, We’re Nelson Here for your Help
-  description: Nelson is an all-in-one solution that you subscribe to over the Internet.
-    We are a property management system, a centralized reservation system, a booking
-    engine, a revenue management system, a channel manager, a customer relationship
-    management system built as one robust scalable solution.
+  subtitle: Vem vi är
+  title: Hej, Nelson står till tjänst
+  description: Nelson är en allt-i-ett-lösning som du beställer över Internet. Vi
+    är ett fastighetsförvaltningssystem, ett centraliserat bokningssystem, en bokningsmotor,
+    ett intäktshanteringssystem, en kanaldistributör, ett kundrelationshanteringssystem
+    byggt som en robust skalbar lösning.
   image: images/why-nelson/01.jpg
 what_we_do:
   enable: true
   subtitle: Our Works
-  title: What We Do
+  title: Vem är vi
   block:
   - title: Embrace self-service
     content: Hotel guests are happy to bypass cumbersome in-person check-in/out processes,
@@ -26,7 +26,10 @@ what_we_do:
       them instantaneous feedback on their performance. With our approach there is
       no need for a layer of middle managers.
   - title: Automate the tedious stuff
-    content: Automation is in our DNA. We do not focus on full-service hotels that require in-person staff. Our tech stack is expressly designed to automate the things that machines are better at doing, like invoicing, tax- and other authority reporting, or setting prices in real-time.
+    content: Automation is in our DNA. We do not focus on full-service hotels that
+      require in-person staff. Our tech stack is expressly designed to automate the
+      things that machines are better at doing, like invoicing, tax- and other authority
+      reporting, or setting prices in real-time.
   - title: Increase profitability
     content: Our conversion-obsessed booking engine will increase your direct sales,
       while keeping inventory optimized in online-travel agencies. Your sales commissions
