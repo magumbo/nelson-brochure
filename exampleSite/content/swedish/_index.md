@@ -53,9 +53,9 @@ features:
     content: Städ- och underhållspersonal arbetar gör sin magi med hjälp av Nelsons
       egen mobilapp som guidar, spårar och hanterar alla tjänster.
   - icon: las la-comments
-    title: Guest comms
-    content: Guests receive automated emails and SMS with room and access information.
-      Our awesome templates allow for customizing upselling.
+    title: Gästkommunikation
+    content: Gästerna får automatiska e-postmeddelanden och SMS med rumsnummer och
+      dörrkod. Våra snygga mallar är anpassade för merförsäljning.
 intro_video:
   enable: true
   subtitle: Short Intro Video
