@@ -58,9 +58,9 @@ features:
       dörrkod. Våra snygga mallar är anpassade för merförsäljning.
 intro_video:
   enable: true
-  subtitle: Short Intro Video
-  title: See Nelson In Action
-  description: Omena Hotel Customer journey enabled by Nelson.
+  subtitle: Kort introduktionsvideo
+  title: Se Nelson in action
+  description: Omena Hotel digitala Kundresa drivs av Nelson
   video_url: https://www.youtube.com/embed/-sy92Vul1Sw
   video_thumbnail: images/video-popup.jpg
 how_it_works:
