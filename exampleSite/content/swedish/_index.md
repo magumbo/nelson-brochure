@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Vem som helst kan vara hotellägare
+  title: Vem som helst kan bli hotellproffs
   button: Boka en demo
   button_link: contact/index.html
   image_mobile: images/banner-app-phone.png
