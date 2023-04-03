@@ -22,10 +22,11 @@ brands_carousel:
   - images/brands/05-colored.png
 features:
   enable: true
-  subtitle: Nelson Features
-  title: Automations to<br> ease your workflow
-  description: Why perform the same manual tasks when Nelson can do it for you? <br>
-    Spend less time on boring stuff and more time on your passion.
+  subtitle: Nelson Funktioner
+  title: Automatiseringar<br>för att underlätta ditt arbetsflöde
+  description: |-
+    Varför utföra samma manuella uppgifter om och om igen när Nelson kan göra det åt dig? <br>
+    Lägg mindre tid på repetitiva saker och mer tid på din passion
   features_blocks:
   - icon: las la-lock
     title: Smart Locking
