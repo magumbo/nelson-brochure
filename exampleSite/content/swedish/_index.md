@@ -67,10 +67,10 @@ how_it_works:
   enable: true
   block:
   - subtitle: Nelson App
-    title: Property management made easy
-    description: What take multiple clicks in an old-school property management system
-      is done in a heartbeat in Nelson's web app. The system is plugged into the physical
-      property and can manage the workflow remotely.
+    title: Förenklad fastighetsförvaltning
+    description: Det som kräver flera klick i ett traditionellt fastighetsförvaltningssystem
+      görs i ett nafs i Nelson. Systemet är integrerat till den fysiska hotell-miljön
+      och kan hantera arbetsflöden på distans
     image: images/features-02.png
   - subtitle: Nelson App
     title: Complete Guest Management
