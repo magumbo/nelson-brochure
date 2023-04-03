@@ -38,8 +38,8 @@ features:
       bokningsmotor. Den kan anpassas för att se ut precis som du vill ha den.
   - icon: las la-robot
     title: AI-driven prissättning
-    content: Rumspriser kan ställas in av Nelsons egenutvecklade maskininlärningsalgoritm
-      som justerar priserna i realtid så att du inte behöver det.
+    content: Rumspriser kan ställas in av Nelsons egenutvecklade algoritm som justerar
+      priserna i realtid så att du inte behöver det.
   - icon: las la-link
     title: OTA Integrations
     content: We connect directly with Booking.com and Expedia. Channel distribution
