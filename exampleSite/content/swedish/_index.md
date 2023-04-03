@@ -41,9 +41,9 @@ features:
     content: Rumspriser kan ställas in av Nelsons egenutvecklade algoritm som justerar
       priserna i realtid så att du inte behöver det.
   - icon: las la-link
-    title: OTA Integrations
-    content: We connect directly with Booking.com and Expedia. Channel distribution
-      is optimized so as to maximize profit. No more extranets.
+    title: OTA-integrationer
+    content: Vi ansluter direkt till de stora bokningskanalerna. Kanaldistributionen
+      är optimerad för att maximera vinsten. Inga fler extranät.
   - icon: las la-mobile
     title: Nelson App
     content: Respond to customer requests from anywhere through our web app. Moving
