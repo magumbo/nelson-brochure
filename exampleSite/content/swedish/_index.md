@@ -33,9 +33,9 @@ features:
     content: Nelson pratar direkt med dina elektroniska lås. Inga fler nyckelkort
       eller incheckningskiosker. Gästerna går bara direkt till sina rum när de kommer.
   - icon: las la-laptop
-    title: Simple Booking Engine
-    content: Drive direct sales with our mobile-friendly and conversion-obsessed booking
-      engine. It can be customized to look exactly like you want it.
+    title: Enkel bokningsmotor
+    content: Öka direktförsäljning med vår mobilvänliga och konverterings-besatta
+      bokningsmotor. Den kan anpassas för att se ut precis som du vill ha den.
   - icon: las la-robot
     title: AI-powered pricing
     content: Room rates can be set by Nelson's proprietary machine learning algorithm
