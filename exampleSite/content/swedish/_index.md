@@ -50,8 +50,8 @@ features:
       a customer to another room or getting sales reports has never been easier.
   - icon: las la-paint-brush
     title: Service App
-    content: Cleaning and maintenance staff work their magic using Nelson's own mobile
-      app that guides, tracks, and manages all service provision.
+    content: Städ- och underhållspersonal arbetar gör sin magi med hjälp av Nelsons
+      egen mobilapp som guidar, spårar och hanterar alla tjänster.
   - icon: las la-comments
     title: Guest comms
     content: Guests receive automated emails and SMS with room and access information.
