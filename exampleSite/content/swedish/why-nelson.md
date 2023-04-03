@@ -15,11 +15,11 @@ what_we_do:
   subtitle: Our Works
   title: Vem är vi
   block:
-  - title: Embrace self-service
-    content: Hotel guests are happy to bypass cumbersome in-person check-in/out processes,
-      as long as guest communication is clear and the technical tools work spotlessly.
-      Operators should focus on manual processes that add value, not on things that
-      guests happily take care of themselves.
+  - title: Bejaka självbetjäning
+    content: Hotellgäster skippar gärna besvärliga personliga in-/ut-processer, så
+      länge gästkommunikationen är tydlig och de tekniska verktygen fungerar klockrent.
+      Operatörer bör fokusera sitt manuella arbete på sådant som tillför värde för
+      gästerna, inte på sådant som gästerna gärna tar hand om själva.
   - title: Optimize workflows
     content: Cleaners and maintenance staff love our user-friendly mobile app that
       allows them to go about their work independently, while at the same time providing
