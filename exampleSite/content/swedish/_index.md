@@ -73,9 +73,10 @@ how_it_works:
       och kan hantera arbetsflöden på distans
     image: images/features-02.png
   - subtitle: Nelson App
-    title: Complete Guest Management
-    description: Make sure guests have a seamless experience from booking to checking
-      out. Troubleshooting made easy with intuitive design.
+    title: Komplett gästhantering
+    description: Med våra verktyg kan du garantera gästerna en sömlös upplevelse från
+      bokning till utcheckning. Felsökning görs enkelt med intuitiv design. Problem
+      kan lösas på distans.
     image: images/features-01.png
 case_study:
   enable: false
