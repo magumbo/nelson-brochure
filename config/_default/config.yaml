@@ -1,7 +1,7 @@
 ### Lang
 defaultContentLanguage: en
 baseURL: 'https://storage.googleapis.com/nelson-brochure/'
-theme: andromeda-light
+#theme: Nelly
 paginate: '6'
 summaryLength: '10'
 googleAnalytics: ''

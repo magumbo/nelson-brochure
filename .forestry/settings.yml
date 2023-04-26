@@ -5,22 +5,22 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/english
+  path: content/english
   label: English
   create: all
   match: "*"
 - type: directory
-  path: exampleSite/content/finnish
+  path: content/finnish
   label: Finnish
   create: all
   match: "*"
 - type: directory
-  path: exampleSite/content/swedish
+  path: content/swedish
   label: Swedish
   create: all
   match: "*"
 - type: directory
-  path: exampleSite/content/english/blog
+  path: content/english/blog
   label: Blog (EN)
   create: all
   match: "*"
