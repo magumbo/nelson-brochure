@@ -30,27 +30,39 @@ export default defineConfig({
         match: {
           include: "*",
         },
-        fields: [
-          {
-            type: 'object',
-            label: 'Banner',
-            name: 'banner',
+          
+        collections: [{
+          label: "Post",
+          name: "post",
+          path: "posts",
+          fields: [{
+            label: "Testimonials",
+            name: "testimonials",
+            type: "object",
             list: true,
             fields: [
               {
-                type: 'string',
-                label: 'Title',
-                name: 'title',
+                type: 'object',
+                label: 'Banner',
+                name: 'banner',
+                list: true,
+                fields: [
+                  {
+                    type: 'string',
+                    label: 'Title',
+                    name: 'title'
+                  },
+                  {
+                    type: 'string',
+                    label: 'Button Text',
+                    name: 'button'
+                  }
+                ],
               },
-              {
-                type: 'string',
-                label: 'Button Text',
-                name: 'button',
-              }
             ],
-          },
-        ],
-      },
+          }],
+         }]
+        },
       {
         format: "md",
         label: "Finnish",
