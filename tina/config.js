@@ -30,39 +30,16 @@ export default defineConfig({
         match: {
           include: "*",
         },
-          
-        collections: [{
-          label: "Post",
-          name: "post",
-          path: "posts",
-          fields: [{
-            label: "Testimonials",
-            name: "testimonials",
-            type: "object",
-            list: true,
-            fields: [
-              {
-                type: 'object',
-                label: 'Banner',
-                name: 'banner',
-                list: true,
-                fields: [
-                  {
-                    type: 'string',
-                    label: 'Title',
-                    name: 'title'
-                  },
-                  {
-                    type: 'string',
-                    label: 'Button Text',
-                    name: 'button'
-                  }
-                ],
-              },
-            ],
-          }],
-         }]
-        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+        ]
+      },
       {
         format: "md",
         label: "Finnish",

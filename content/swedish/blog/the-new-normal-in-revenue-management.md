@@ -1,5 +1,5 @@
 +++
-date = 2022-04-22T04:00:00Z
+date = 2023-12-10T04:00:00Z
 image = "images/blog/01.jpg"
 title = "The “new normal” in Revenue Management"
 [author_info]

@@ -1,5 +1,5 @@
 +++
-date = 2022-11-01T05:00:00Z
+date = 2023-10-09T05:00:00Z
 image = "images/blog/04.jpg"
 title = "What’s up with payments in hotels these days?"
 [author_info]
